@@ -10,7 +10,7 @@
 ### 如何在本地运行
 1. 克隆本仓库到本地环境：
    ```bash
-    git clone [https://github.com/你的用户名/你的仓库名.git](https://github.com/你的用户名/你的仓库名.git)
+    git clone https://github.com/ChangeableZX/Pricing-Decision-Model-for-Supermarket-Replenishment
 2. 建议使用 Python 3.8+ 环境，并安装必要的依赖包：
     ```bash
     pip install pandas numpy matplotlib seaborn scikit-learn
